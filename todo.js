@@ -1,5 +1,7 @@
 //const app = angular.module('myApp', []);
-
+/*
+for test 12:02
+*/
 angular.module('myApp', []).controller('TodoCtrl', function ($scope) {
 
     $scope.todoList = [
